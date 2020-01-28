@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.01.20_HierarchyGeometricShapes", "23.01.20_HierarchyGeometricShapes\23.01.20_HierarchyGeometricShapes.csproj", "{4C6FC0F4-0D72-490B-B78E-2F961AA1BA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6FC0F4-0D72-490B-B78E-2F961AA1BA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6FC0F4-0D72-490B-B78E-2F961AA1BA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6FC0F4-0D72-490B-B78E-2F961AA1BA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6FC0F4-0D72-490B-B78E-2F961AA1BA10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6F134D9-DDB6-462F-BB97-B2DCC65DB2EE}
+	EndGlobalSection
+EndGlobal
